@@ -1,0 +1,6 @@
+payrollServices=com.zensar.payroll.services.PayrollServicesImpl
+payrollDAOServices=com.zensar.payroll.daoservices.PayrollDAOServicesImpl
+driver=com.mysql.jdbc.Driver
+url=jdbc:mysql://localhost:3306/zensarpayrollDB
+userName=root
+password=root
